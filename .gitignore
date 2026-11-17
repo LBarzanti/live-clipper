@@ -1,0 +1,5 @@
+clips/
+__pycache__/
+.venv/
+*.ts
+*.mp4
